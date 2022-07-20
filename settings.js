@@ -19,15 +19,15 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is D SHADOW🔥
-My Creator is D SHADOW` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is D_SHADOW࿐🔥
+My Creator is 🇩‌I͜͡L͜͡🅰........♔` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94719005615'] //Owner number in aive msg
 global.premium = ['+94719005615'] //Owner Number info
 global.ownernomer = '+94719005615' //Owner Number <<<
 
 global.ownername = '🇩‌I͜͡L͜͡🅰........♔' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.botname = ' D_SHADOW࿐🔥' //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://www.instagram.com/dila_ghost' //Github Account!
+global.ig = 'https://www.instagram.com/dila_ghost' //Instagram Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
